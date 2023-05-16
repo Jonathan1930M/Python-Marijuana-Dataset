@@ -11,8 +11,7 @@ Para ejecutar este proyecto, se requiere tener instaladas las siguientes bibliot
 
 Puede instalar las bibliotecas utilizando pip:
 
-
-pip install pandas numpy matplotlib seaborn
+'pip install pandas numpy matplotlib seaborn'
 
 ## Carga del Dataset
 El conjunto de datos utilizado en este proyecto se encuentra en Kaggle. Descargue el archivo CSV y guárdelo en el directorio del proyecto con el nombre "arrests_data.csv".
@@ -30,8 +29,9 @@ El análisis de los arrestos por posesión de marihuana reveló varias tendencia
 [Incluye aquí los principales hallazgos y conclusiones del análisis de datos.]
 
 ## Recursos Adicionales
-Enlace al conjunto de datos en Kaggle
-Documentación de Pandas
-Documentación de NumPy
-Documentación de Matplotlib
-Documentación de Seaborn
+
+- [Enlace al conjunto de datos de kaggle](https://www.kaggle.com/datasets/utkarshx27/arrests-for-marijuana-possession)
+- [Documentación de Pandas](https://pandas.pydata.org/docs/)
+- [Documentación de NumPy](https://numpy.org/doc/)
+- [Documentación de Matplotlib](https://matplotlib.org/stable/contents.html)
+- [Documentación de Seaborn](https://seaborn.pydata.org/tutorial.html)
