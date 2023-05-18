@@ -24,9 +24,11 @@ El conjunto de datos utilizado en este proyecto se encuentra en Kaggle. Descargu
 5. Los resultados y las conclusiones obtenidas del análisis se presentarán en el cuaderno de Jupyter y se discutirán en detalle.
 
 ## Resultados y Conclusiones
-El análisis de los arrestos por posesión de marihuana reveló varias tendencias interesantes. Se encontró que...
+El análisis de los arrestos por posesión de marihuana reveló varias tendencias interesantes. Se encontró que los hombres de raza blanca son los que mayor número de arrestos tienen.
+La edad minima de arresto es de 12 años.
+Las edades en donde mayor numero de arrestos existe es de 14 a 27 años.
+Y las mujeres comparten el mismo patron en las graficas que los hombres pero con una menor densidad de arrestos.
 
-[Incluye aquí los principales hallazgos y conclusiones del análisis de datos.]
 
 ## Recursos Adicionales
 
